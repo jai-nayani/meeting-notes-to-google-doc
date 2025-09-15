@@ -54,7 +54,3 @@ A personalized, production-quality Colab notebook that converts markdown meeting
 
 ## Author
 Prepared by: Jai Adithya Ram Nayani
-
-"What excites me most about Rilla is the chance to be part of a once-in-a-generation company in its earliest, most defining stage—where long hours, in-person collaboration, and uncompromising standards turn into outsized impact and exponential growth. I thrive in environments where intensity fuels innovation, and I’m energized by the idea of contributing to a culture that feels like the early days of Amazon or Apple, where every decision shapes the company’s trajectory. I want to help build that legacy—and who knows, I could be the next Soham Parekh."
-
-— and yes, I wrote that line myself. 😉
