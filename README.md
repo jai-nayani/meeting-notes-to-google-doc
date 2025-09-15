@@ -1,8 +1,8 @@
 # JARN Ansible Assessment — Markdown ➜ Google Doc (Colab)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/JARN_Ansible-Assessment/blob/master/Meeting_Notes_to_Google_Doc_Colab.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jai-nayani/JARN_Ansible-Assessment/blob/main/Meeting_Notes_to_Google_Doc_Colab.ipynb)
 
-Repository: https://github.com/YOUR_GITHUB_USERNAME/JARN_Ansible-Assessment
+Repository: https://github.com/jai-nayani/JARN_Ansible-Assessment
 
 A personalized, production-quality Colab notebook that converts markdown meeting notes into a well-formatted Google Doc using the Google Docs API.
 
