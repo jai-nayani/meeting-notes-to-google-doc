@@ -1,0 +1,10 @@
+- [ ] Open the notebook in Colab
+- [ ] Upload credentials.json
+- [ ] Upload markdown or use sample
+- [ ] Title is H1
+- [ ] Sections are H2; sub-sections H3
+- [ ] Nested bullets render with indentation
+- [ ] '- [ ]' becomes checkboxes
+- [ ] @mentions styled
+- [ ] Footer styled grey
+- [ ] Link opens the created Google Doc
