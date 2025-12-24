@@ -1,19 +1,9 @@
-# JARN Ansible Assessment — Markdown ➜ Google Doc (Colab)
+# Markdown ➜ Google Doc (Google Colab)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jai-nayani/meeting-notes-to-google-doc/blob/main/Meeting_Notes_to_Google_Doc_Colab.ipynb)
+This Colab notebook converts markdown meeting notes into a well-formatted Google Doc using the Google Docs API.
 
-Repository: https://github.com/jai-nayani/meeting-notes-to-google-doc
-
-A personalized, production-quality Colab notebook that converts markdown meeting notes into a well-formatted Google Doc using the Google Docs API.
-
-## Table of Contents
-- [Overview](#overview)
-- [Setup (Colab)](#setup-colab)
-- [Required Scope](#required-scope)
-- [Dependencies (installed in the notebook)](#dependencies-installed-in-the-notebook)
-- [Deliverables](#deliverables)
-- [Evaluation Fit](#evaluation-fit)
-- [Author](#author)
+## Public GitHub Repository
+- **Repo link**: `https://github.com/jai-nayani/meeting-notes-to-google-doc`
 
 ## Overview
 - Creates a new Google Doc programmatically
@@ -27,12 +17,12 @@ A personalized, production-quality Colab notebook that converts markdown meeting
 ## Setup (Colab)
 1. Open `Meeting_Notes_to_Google_Doc_Colab.ipynb` in Google Colab.
 2. Run the Install cell.
-3. Run the Authenticate cell and upload your OAuth `credentials.json`.
-4. Upload your markdown (or use `examples/original-meeting-notes.md` or `examples/product-team-sync.md`).
-5. Run the conversion cell; a Google Docs link will be printed.
+3. Run the Authenticate cell (Colab will prompt you to authorize).
+4. Run the conversion cell; a Google Docs link will be printed.
+   - Optional: upload your own markdown, or use `examples/product-team-sync.md`.
 
 ### Required Scope
-- https://www.googleapis.com/auth/documents
+- `https://www.googleapis.com/auth/documents`
 
 ## Dependencies (installed in the notebook)
 - google-api-python-client
