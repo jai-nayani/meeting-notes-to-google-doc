@@ -8,3 +8,4 @@
 - [ ] @mentions styled
 - [ ] Footer styled grey
 - [ ] Link opens the created Google Doc
+
